@@ -1,4 +1,4 @@
-# This repository provides the codes and experiments for the paper "An adaptive superfast inexact proximal
+This repository provides the codes and experiments for the paper "An adaptive superfast inexact proximal
 augmented Lagrangian method for smooth nonconvex composite optimization problems" by Arnesh Sujanani and Renato D.C. Monteiro. 
 
 Folders QP Vector Simplex Codes, QP Vector Box, SDP Simplex, Sparse PCA codes, and Matrix Completion codes contain both my codes
