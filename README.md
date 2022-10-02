@@ -6,6 +6,6 @@ and the experiments running the other benchmark algorithms used to generate the 
 "Codes of Other Benchmark Algorithms" contains the actual codes of the algorithms we compare our algorithm with. These codes as well as the codes which generate the various problem classes were generously provided by William Kong.
 
 In order to run both my codes and all experiments, please download William Kong's github repository nc_opt https://github.com/wwkong/nc_opt (in addition 
-to this repository) as the codes may make use of prox utility functions which can be found be found there. 
+to this repository).
 
 
